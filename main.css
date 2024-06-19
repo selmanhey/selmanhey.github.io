@@ -1,0 +1,68 @@
+body {
+  background-color: #5616ce;
+  color: #25cc3b;
+  background-image: linear-gradient(to top, white, red);
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: #ca138d;
+  color: #42a1f0;
+  background-image: url(flags.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  line-height: 700%;
+  text-indent: 2rem;
+}
+
+main {
+  background-color: #ff0000;
+  font-size: x-large;
+}
+
+nav {
+  background-color: #ca138d;
+  color: #42a1f0;;
+  background-position: center;
+  background-repeat: no-repeat;
+  line-height: 600%;
+  text-indent: 2em;
+}
+
+main ul {
+  background-color: beige;
+}
+
+footer {
+  background-color: #ca138d;
+  color: #42a1f0;
+  background-position: center;
+  background-repeat: no-repeat;
+  line-height: 700%;
+  text-indent: 2rem;
+}
+
+section {
+  float: left;
+  width: 25%;
+}
+td {
+	padding: 2rem;
+	border: 2px solid #000000;
+	text-align: center;
+
+}
+
+th {
+	padding: 2em;
+	border: 2px solid #000000;
+	text-align: center;
+}
+th {
+  background-color: #ff0;
+}
+
+nav a:hover {
+  color: #fff;
+  background-color: #000;
+}
